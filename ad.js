@@ -10,14 +10,14 @@
 //let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
 
 // 이마트 금액권
-// let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcqNL5%2FbtrTckRUaNL%2F4oFC66jsBg05zVK6ZaKS6K%2Fimg.png";
-// let ad_link = "http://Athog.me/t62fi04udl";
-// let text_description = "이마트 금액권 받아가세요.\n\n인생내컷 스튜디오 내보험 바로알기 이벤트네요. 네 가지의 인생 이야기 확인하고 바로알기를 완료하면 이마트 금액권 3천원을 100% 받을 수 있습니다. 관심 있으신 분들은 확인해보세요.";ㅇ
+let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcqNL5%2FbtrTckRUaNL%2F4oFC66jsBg05zVK6ZaKS6K%2Fimg.png";
+let ad_link = "http://Athog.me/t62fi04udl";
+let text_description = "이마트 금액권 받아가세요.\n\n인생내컷 스튜디오 내보험 바로알기 이벤트네요. 네 가지의 인생 이야기 확인하고 바로알기를 완료하면 이마트 금액권 3천원을 100% 받을 수 있습니다. 관심 있으신 분들은 확인해보세요.";ㅇ
 
 // 19 PASS
-let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnJubI%2FbtrTmXV779C%2Ffl2kIAP4Oxz9lsrauHOTNk%2Fimg.jpg";
-let ad_link = "http://Athog.me/t62fwbie75";
-let text_description = "19만원에 환급까지! AMAZING 19패스\n\n수능부터 내신까지 완벽하게 2024 수능까지 무제한 수강하고, 수강료 환급까지 받아가세요! 대성마이맥 AMAZING 19PASS";
+//let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnJubI%2FbtrTmXV779C%2Ffl2kIAP4Oxz9lsrauHOTNk%2Fimg.jpg";
+//let ad_link = "http://Athog.me/t62fwbie75";
+//let text_description = "19만원에 환급까지! AMAZING 19패스\n\n수능부터 내신까지 완벽하게 2024 수능까지 무제한 수강하고, 수강료 환급까지 받아가세요! 대성마이맥 AMAZING 19PASS";
 
 document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
