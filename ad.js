@@ -12,7 +12,7 @@
 // 이마트 금액권
 let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcqNL5%2FbtrTckRUaNL%2F4oFC66jsBg05zVK6ZaKS6K%2Fimg.png";
 let ad_link = "http://Athog.me/t62fi04udl";
-let text_description = "이마트 금액권 받아가세요.\n\n인생내컷 스튜디오 내보험 바로알기 이벤트네요. 네 가지의 인생 이야기 확인하고 바로알기를 완료하면 이마트 금액권 3천원을 100% 받을 수 있습니다. 관심 있으신 분들은 확인해보세요.";ㅇ
+let text_description = "이마트 금액권 받아가세요.\n\n인생내컷 스튜디오 내보험 바로알기 이벤트네요. 네 가지의 인생 이야기 확인하고 바로알기를 완료하면 이마트 금액권 3천원을 100% 받을 수 있습니다. 관심 있으신 분들은 확인해보세요.";
 
 // 19 PASS
 //let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnJubI%2FbtrTmXV779C%2Ffl2kIAP4Oxz9lsrauHOTNk%2Fimg.jpg";
