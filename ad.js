@@ -5,7 +5,7 @@
 // let text_description = "데이터 사이언스 입문 E-Book 무료로 받는 방법\n최근에 소프트웨어 쪽 인기가 많아지고, 특히 인공지능과 데이터 분석 쪽도 많이 발전했죠. 컴퓨터를 하시는 분들에게 도움이 될 것 같아서 가져왔습니다. 이 강의로 엑셀과 R, 파이썬,Power Bi 등 실무에 도움이 되는 것들을 배울 수 있습니다.";
 
 // 오디오무비
-let img_url = "";
+let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/img.png";
 let ad_link = "http://Athog.me/t62f22chqf";
 let text_description = "네이버 바이브 이벤트!\n\n귀로 듣는 영화인 오디오 무비 리버스입니다. 영화를 귀로 들어보셨나요? 궁금하시면 체험해보시요!";
 //ssafy
