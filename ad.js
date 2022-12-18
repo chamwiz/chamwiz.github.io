@@ -9,9 +9,9 @@ let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/
 let ad_link = "http://Athog.me/t62f22chqf";
 let text_description = "네이버 바이브 이벤트!\n\n귀로 듣는 영화인 오디오 무비 리버스입니다. 영화를 귀로 들어보셨나요? 궁금하시면 체험해보시요!";
 //ssafy
-let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
-let ad_link = "http://Athog.me/t62fn171qd";
-let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
+//let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
+//let ad_link = "http://Athog.me/t62fn171qd";
+//let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
 
 // 이마트 금액권
 //let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcqNL5%2FbtrTckRUaNL%2F4oFC66jsBg05zVK6ZaKS6K%2Fimg.png";
