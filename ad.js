@@ -7,7 +7,7 @@
 // 오디오무비
 let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/img.png";
 let ad_link = "http://Athog.me/t62f22chqf";
-let text_description = "네이버 바이브 오디오 무비!\n\n귀로 듣는 영화인 오디오 무비 리버스입니다. 영화를 귀로 들어보셨나요? 추운 겨울인데 집콕하며 네이버 바이브에서 리버스 오디오 무비를 들어보세요! 궁금하시면 체험해보시요!";
+let text_description = "네이버 바이브 오디오 무비!\n\n귀로 듣는 영화인 오디오 무비 리버스입니다. 영화를 귀로 들어보셨나요? 추운 겨울인데 집콕하며 네이버 바이브에서 리버스 오디오 무비를 들어보세요! 궁금하시면 체험해보시요!!";
 //ssafy
 //let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
 //let ad_link = "http://Athog.me/t62fn171qd";
