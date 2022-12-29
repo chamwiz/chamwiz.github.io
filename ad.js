@@ -1,27 +1,13 @@
 
-//데이터 사이언스
-// let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJSFVP%2FbtrSRQ57x42%2FBuC4Sx2WL8Tj9HNFvTugA0%2Fimg.jpg";
-// let ad_link = "http://Athog.me/t62fn166vi";
-// let text_description = "데이터 사이언스 입문 E-Book 무료로 받는 방법\n최근에 소프트웨어 쪽 인기가 많아지고, 특히 인공지능과 데이터 분석 쪽도 많이 발전했죠. 컴퓨터를 하시는 분들에게 도움이 될 것 같아서 가져왔습니다. 이 강의로 엑셀과 R, 파이썬,Power Bi 등 실무에 도움이 되는 것들을 배울 수 있습니다.";
-
-// 오디오무비
-//let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/img.png";
-//let ad_link = "http://Athog.me/t62f22chqf";
-//let text_description = "네이버 바이브 오디오 무비!\n\n귀로 듣는 영화인 오디오 무비 리버스입니다. 영화를 귀로 들어보셨나요? 추운 겨울인데 집콕하며 네이버 바이브의 오리지널 콘텐츠인 리버스 오디오 무비를 들어보세요! 궁금하시면 체험해보시요!!";
 //ssafy
-let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
-let ad_link = "http://Athog.me/t62fn171qd";
-let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
+//let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
+//let ad_link = "http://Athog.me/t62fn171qd";
+//let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
 
-// 이마트 금액권
-//let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcqNL5%2FbtrTckRUaNL%2F4oFC66jsBg05zVK6ZaKS6K%2Fimg.png";
-//let ad_link = "http://Athog.me/t62fi04udl";
-//let text_description = "이마트 금액권 받아가세요.\n\n인생내컷 스튜디오 내보험 바로알기 이벤트네요. 네 가지의 인생 이야기 확인하고 바로알기를 완료하면 이마트 금액권 3천원을 100% 받을 수 있습니다. 관심 있으신 분들은 확인해보세요.";
-
-// 19 PASS
-//let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnJubI%2FbtrTmXV779C%2Ffl2kIAP4Oxz9lsrauHOTNk%2Fimg.jpg";
-//let ad_link = "http://Athog.me/t62fwbie75";
-//let text_description = "19만원에 환급까지! AMAZING 19패스\n\n수능부터 내신까지 완벽하게 2024 수능까지 무제한 수강하고, 수강료 환급까지 받아가세요! 대성마이맥 AMAZING 19PASS";
+//스마트 싱스
+let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img.png?raw=true";
+let ad_link = "http://kerion.info/t62goimhm9";
+let text_description = "삼성전자 이벤트! 갤럭시워치 5 증정. 참여자 전원에게 경품을 주고 있네요.\n\n스마트싱스 이벤트입니다. 스마트싱스 루틴을 소개하면 전원 경품을 준다고합니다. 경품에는 갤럭시워치5와 스마트톡 그리고 에코백 등이 있네요. 갤럭시워치5 증정이 제일 끌립니다. 삼성전자 이벤트이니 믿고 하셔도 됩니다. 이벤트 참여를 원하시는 분은 위 공식 링크를 확인해보세요.";
 
 document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
