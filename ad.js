@@ -1,8 +1,13 @@
 
 //ssafy
-let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
-let ad_link = "http://Athog.me/t62fn171qd";
-let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
+//let img_url = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGFrTI%2FbtrS1JTzzA0%2FWAdKrjiTYaNowKnkNR76xk%2Fimg.jpg";
+//let ad_link = "http://Athog.me/t62fn171qd";
+//let text_description = "국비지원교육 교육비 0원\n\n소프트웨어 개발자 쪽으로 직업을 원하시는 분들이라면 다들 듣고 싶어하는 SSAFY입니다. 관심이 있다면 멋티잇 KDT과정으로 대기업 간 썰을 한 번 확인해보세요.";
+
+//mbti
+let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
+let ad_link = "http://kerion.info/t7dsg92pib";
+let text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n해커스 영스타 햌bti로 공부 성향을 알아보세요. 게임 하기 전 간단하게 테스트 ㄱㄱ?";
 
 //스마트 싱스
 //let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img.png?raw=true";
