@@ -16,8 +16,8 @@ let text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!
 
 document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
-document.getElementById("ad_img_p").width = "400px";
-document.getElementById("ad_img_p").height = "400px";
+document.getElementById("ad_img_p").style.width = "400px";
+document.getElementById("ad_img_p").style.height = "400px";
 document.getElementById("link_ad").href = ad_link;
 document.getElementById("link_ad").innerText = ad_link;
 document.getElementById("ad_descrption").innerText = text_description;
