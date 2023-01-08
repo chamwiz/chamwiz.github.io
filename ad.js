@@ -1,13 +1,13 @@
 
 //mbti
-//let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
-//let ad_link = "http://kerion.info/t7dsg92pib";
-//let text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n해커스 영스타 햌bti로 공부 성향을 알아보세요. 게임 하기 전 간단하게 테스트 ㄱㄱ?";
+let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
+let ad_link = "http://kerion.info/t7dsg92pib";
+let text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n해커스 영스타 햌bti로 공부 성향을 알아보세요. 게임 하기 전 간단하게 테스트 ㄱㄱ?";
 
 //지프텔
-let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/giptal.jpg";
-let ad_link = "http://kerion.info/t7dsmg0d0z";
-let text_description = "당신의 지프텔 실력은? 무료 테스트.\n\n해커스 지프텔 인강 24시간 무료 수강권 + 할인 쿠폰 제공. 여러분들의 지프텔 실력을 테스트해보세요. 몇점이 나오나요?";
+//let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/giptal.jpg";
+//let ad_link = "http://kerion.info/t7dsmg0d0z";
+//let text_description = "당신의 지프텔 실력은? 무료 테스트.\n\n해커스 지프텔 인강 24시간 무료 수강권 + 할인 쿠폰 제공. 여러분들의 지프텔 실력을 테스트해보세요. 몇점이 나오나요?";
 
 document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
