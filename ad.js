@@ -14,6 +14,11 @@ text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n
 img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/giptal.jpg";
 ad_link = "http://kerion.info/t7dsmg0d0z";
 text_description = "당신의 지프텔 실력은? 무료 테스트.\n\n해커스 지프텔 인강 24시간 무료 수강권 + 할인 쿠폰 제공. 여러분들의 지프텔 실력을 테스트해보세요. 몇점이 나오나요?";
+} else if(whichAd == 3){
+//댕냥룸
+img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/cat.jpg?raw=true";
+ad_link = "http://kerion.info/t7dsnx31gz";
+text_description = "댕냥이 좋아하시는 분 주목!!!\n\n댕냥룸 콘테스트 참여하고 이벤트 경품 받으세요~ 비글지에서 가상 펫을 만들고 소중히 키우고 다른 사람들과 이야기를 나눠봐요. 여친, 이 생길지도?";
 }
 
 document.getElementById("img_link").href = ad_link;
