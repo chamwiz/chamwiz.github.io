@@ -1,16 +1,14 @@
-let ad = 2
 
-if(ad == 1){
 //mbti
-let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
-let ad_link = "http://kerion.info/t7dsg92pib";
-let text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n해커스 영스타 햌bti로 공부 성향을 알아보세요. 게임 하기 전 간단하게 테스트 ㄱㄱ?";
-} else if(ad == 2) {
+//let img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
+//let ad_link = "http://kerion.info/t7dsg92pib";
+//let text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n해커스 영스타 햌bti로 공부 성향을 알아보세요. 게임 하기 전 간단하게 테스트 ㄱㄱ?";
+
 //지프텔
 let img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/giptal.jpg";
 let ad_link = "http://kerion.info/t7dsmg0d0z";
 let text_description = "당신의 지프텔 실력은? 무료 테스트.\n\n해커스 지프텔 인강 24시간 무료 수강권 + 할인 쿠폰 제공";
-}
+
 document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
 document.getElementById("ad_img_p").style.width = "400px";
