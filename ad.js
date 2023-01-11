@@ -1,4 +1,4 @@
-let whichAd;
+let whichAd = None;
 
 let tenpingAPIUrl = "http://tenping.kr/adbox/statecheck?MemberID=FI%2bkPYul4uWJYLn27ElrsdujD4nMsvU7AXSsM%2be0jEEGqY499aXXFrcAIHZp%2bZqM&ContentID=2022121509490001";
 
@@ -16,7 +16,7 @@ fetch(tenpingAPIUrl)
         }
     })
     .catch(function (err) {
-
+            whichAd = 1;
     });
 
 let img_url = "";
