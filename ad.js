@@ -1,4 +1,4 @@
-let whichAd = 2;
+let whichAd;
 
 let tenpingAPIUrl = "http://tenping.kr/adbox/statecheck?MemberID=FI%2bkPYul4uWJYLn27ElrsdujD4nMsvU7AXSsM%2be0jEEGqY499aXXFrcAIHZp%2bZqM&ContentID=2022121509490001";
 
