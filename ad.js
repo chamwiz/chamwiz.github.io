@@ -17,7 +17,7 @@ fetch(tenpingAPIUrl)
     })
     .catch(function (err) {
 
-    })
+    });
 
 let img_url = "";
 let ad_link = "";
