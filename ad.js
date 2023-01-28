@@ -19,6 +19,11 @@ if(whichAd == 1){
 img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/clean.jpg?raw=true";
 ad_link = "http://kerion.info/t62fq98z3n";
 text_description = "청소매니아에서 무료 견적 받아보세요\n\n집, 회사, 공간 청소 하기 힘드시죠? 청소를 맡겨보세요. 국내 청소 최대 플랫폼인 최소매니아를 소개합니다.";
+} else if(whichAd == 4){
+//토플
+img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/tople.jpg?raw=true";
+ad_link = "http://kerion.info/t7dtjnwaj8";
+text_description = "토플 무료 테스트\n\n해커스에서 토플 레벨테스트를 받을 수 있습니다. 5분 안으로 간단하게 테스트 볼 수 있으니 궁금하신 분들은 들어가서 테스트 ㄱㄱ";
 }
 
 document.getElementById("img_link").href = ad_link;
