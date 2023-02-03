@@ -4,7 +4,7 @@ let img_url = "";
 let ad_link = "";
 let text_description = "";
 
-if(whichAd == 4){
+if(whichAd == 1){
 //mbti
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
     ad_link = "http://kerion.info/t7dsg92pib";
