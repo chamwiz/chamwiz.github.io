@@ -1,14 +1,14 @@
-let whichAd = 3;
+let whichAd = 1;
 
 let img_url = "";
 let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-//mbti
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/bti.jpg?raw=true";
-    ad_link = "http://kerion.info/t7dsg92pib";
-    text_description = "커피 무료 경품 추첨. 결과 공유하고 받자!\n\n해커스 영스타 햌bti로 공부 성향을 알아보세요. 게임 하기 전 간단하게 테스트 ㄱㄱ?";
+//ssafy
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/saffy.jpg?raw=true";
+    ad_link = "http://Ocayn.info/t7dxohcx5v";
+    text_description = "SW 개발자 취업 개꿀팁~\n\n취준생들에게 인기가 많은 SSAFY입니다. 국비지원교육으로 교육비 0원입니다. 바로 확인하세요!";
 } else if(whichAd == 2){
 //지프텔
     img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/giptal.jpg";
