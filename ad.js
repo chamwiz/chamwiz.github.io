@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 let img_url = "";
 let ad_link = "";
@@ -10,10 +10,10 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7dxohcx5v";
     text_description = "SW 개발자 취업 개꿀팁~\n\n취준생들에게 인기가 많은 SSAFY입니다. 국비지원교육으로 교육비 0원입니다. 바로 확인하세요!";
 } else if(whichAd == 2){
-//지프텔
-    img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/giptal.jpg";
-    ad_link = "http://kerion.info/t7dsmg0d0z";
-    text_description = "당신의 지프텔 실력은? 무료 테스트.\n\n해커스 지프텔 인강 24시간 무료 수강권 + 할인 쿠폰 제공. 여러분들의 지프텔 실력을 테스트해보세요. 몇점이 나오나요?";
+//멀티잇
+    img_url = "https://raw.githubusercontent.com/chamwiz/chamwiz.github.io/main/mutit.jpg";
+    ad_link = "http://Ocayn.info/t7dxoh8n4z";
+    text_description = "교육비 0원\n국비지원교육으로 비전공자 -> 개발자 취업하자!";
 } else if(whichAd == 3){
 //댕냥룸
 img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/clean.jpg?raw=true";
