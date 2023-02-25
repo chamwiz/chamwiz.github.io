@@ -1,10 +1,10 @@
-let whichAd = 1;
+let whichAd = 2;
 
 let img_url = "";
 let ad_link = "";
 let text_description = "";
 
-if(whichAd == 2){
+if(whichAd == 1){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/meta.png?raw=true";
     ad_link = "http://Ocayn.info/t7dxs3t6b3";
     text_description = "메타버스 무료 제작\n\n사장님들 돈 많이 벌고 싶으시죠? 광고를 하셔야죠~ 무료 등록, 무료제작입니다. 메타버스까지 만들어주신다고 하네요. 어플에서 구독 서비스를 만들어서 단골을 계속 오게 만들기도 가능합니다.";
