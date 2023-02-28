@@ -1,4 +1,4 @@
-let whichAd = 2;
+let whichAd = 3;
 
 let img_url = "";
 let ad_link = "";
@@ -13,7 +13,9 @@ if(whichAd == 1){
     ad_link = "http://kerion.info/t62fq98z3n";
     text_description = "청소매니아에서 무료 견적 받아보세요\n\n집, 회사, 공간 청소 하기 힘드시죠? 청소를 맡겨보세요. 국내 청소 최대 플랫폼인 최소매니아를 소개합니다.";
 } else if(whichAd == 3){
-
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/things.jpg?raw=true";
+    ad_link = "http://m.site.naver.com/16lml";
+    text_description = "삼성에서 하는 스마트싱스 이벤트!\n\n일상생활 주변에서 스마트싱스 물건을 찾아보세요. 이벤트를 참여하고 경품까지!";
 } else if(whichAd == 4){
 
 }
