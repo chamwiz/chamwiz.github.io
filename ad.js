@@ -1,4 +1,4 @@
-let whichAd = 0;
+let whichAd = 1;
 
 let img_url = "";
 let ad_link = "";
