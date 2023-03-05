@@ -5,7 +5,7 @@ let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-    img_url = "";
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/noname.png?raw=true";
     ad_link = "https://link.coupang.com/a/Q9fGo";
     text_description = "";
 } else if(whichAd == 2){
