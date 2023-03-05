@@ -6,8 +6,8 @@ let text_description = "";
 
 if(whichAd == 1){
     img_url = "";
-    ad_link = "https://bltly.link/B3NNteC";
-    text_description = "청순한 얼굴에 엄청난 반전 매력 인플루언서";
+    ad_link = "https://link.coupang.com/a/Q9fGo";
+    text_description = "";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/clean.jpg?raw=true";
     ad_link = "http://kerion.info/t62fq98z3n";
@@ -31,6 +31,6 @@ document.getElementById("ad_descrption").style.backgroundColor = "#e0e0e0";
 
 // 공정위 문구
 let created_adpick_img = document.createElement('p');
-created_adpick_img.innerHTML = "이 글은 소정의 원고료를 지급받고 작성했습니다."
+created_adpick_img.innerHTML = "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
 let adpick_img = document.querySelector(".contents_style");
 adpick_img.appendChild(created_adpick_img);
