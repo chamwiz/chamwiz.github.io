@@ -5,9 +5,9 @@ let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/noname.png?raw=true";
+    img_url = "";
     ad_link = "https://link.coupang.com/a/Q9fGo";
-    text_description = "";
+    text_description = "쿠팡 접속은 게시자에게 도움이 됩니다. 감사합니다.";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/clean.jpg?raw=true";
     ad_link = "http://kerion.info/t62fq98z3n";
