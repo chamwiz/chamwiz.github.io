@@ -24,6 +24,7 @@ document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
 document.getElementById("ad_img_p").style.width = "400px";
 document.getElementById("ad_img_p").style.height = "400px";
+document.getElementById("ad_img_p").style.display = "none";
 document.getElementById("link_ad").href = ad_link;
 document.getElementById("link_ad").innerText = ad_link;
 document.getElementById("ad_descrption").innerText = text_description;
