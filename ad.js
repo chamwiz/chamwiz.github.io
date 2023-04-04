@@ -1,13 +1,13 @@
-let whichAd = 0;
+let whichAd = 1;
 
 let img_url = "";
 let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-    img_url = "";
-    ad_link = "https://link.coupang.com/a/Q9fGo";
-    text_description = "쿠팡 접속은 게시자에게 도움이 됩니다. 감사합니다.";
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/lanton.jpg?raw=true";
+    ad_link = "http://Ocayn.info/t7d59hoj2r";
+    text_description = "라비고 충전식 감성 캠핑랜턴을 소개합니다!\n\n요즘 날씨도 좋고, 마스크도 풀리면서 캠핑 많이 가시죠? 은은한 불빛으로 감성을 올려주는 랜턴 한 번 보고 가세요.";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/clean.jpg?raw=true";
     ad_link = "http://kerion.info/t62fq98z3n";
