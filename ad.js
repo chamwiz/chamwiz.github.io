@@ -9,9 +9,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7d59hoj2r";
     text_description = "라비고 충전식 감성 캠핑랜턴을 소개합니다!\n\n요즘 날씨도 좋고, 마스크도 풀리면서 캠핑 많이 가시죠? 은은한 불빛으로 감성을 올려주는 랜턴 한 번 보고 가세요.";
 } else if(whichAd == 2){
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/clean.jpg?raw=true";
-    ad_link = "http://kerion.info/t62fq98z3n";
-    text_description = "청소매니아에서 무료 견적 받아보세요\n\n집, 회사, 공간 청소 하기 힘드시죠? 청소를 맡겨보세요. 국내 청소 최대 플랫폼인 최소매니아를 소개합니다.";
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/sleep.jpg?raw=true";
+    ad_link = "";
+    text_description = "불면증 있으세요?\n\n갱년기 불면증 가만히 두면 안됩니다. 정말 도움이 되는 칼럼이 있어서 가져왔습니다. 관심이 있다면 한 번 읽어보시길 바랍니다.";
 } else if(whichAd == 3){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/things.jpg?raw=true";
     ad_link = "http://m.site.naver.com/16lml";
