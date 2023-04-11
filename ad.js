@@ -1,4 +1,4 @@
-let whichAd = 0;
+let whichAd = 3;
 
 let img_url = "";
 let ad_link = "";
@@ -14,8 +14,8 @@ if(whichAd == 1){
     text_description = "불면증 있으세요?\n\n갱년기 불면증 가만히 두면 안됩니다. 정말 도움이 되는 칼럼이 있어서 가져왔습니다. 관심이 있다면 한 번 읽어보시길 바랍니다.";
 } else if(whichAd == 3){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/things.jpg?raw=true";
-    ad_link = "http://m.site.naver.com/16lml";
-    text_description = "삼성에서 하는 스마트싱스 이벤트!\n\n일상생활 주변에서 스마트싱스 물건을 찾아보세요. 이벤트를 참여하고 경품까지!";
+    ad_link = "https://link.coupang.com/a/ULzfl";
+    text_description = "아이패드 선물 이벤트/프로모션 소개합니다! 관심 있으신 분들은 확인하세요.";
 } else if(whichAd == 4){
 
 }
