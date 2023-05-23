@@ -1,13 +1,13 @@
-let whichAd = 3;
+let whichAd = 1;
 
 let img_url = "";
 let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/lanton.jpg?raw=true";
-    ad_link = "http://Ocayn.info/t7d59hoj2r";
-    text_description = "라비고 충전식 감성 캠핑랜턴을 소개합니다!\n\n요즘 날씨도 좋고, 마스크도 풀리면서 캠핑 많이 가시죠? 은은한 불빛으로 감성을 올려주는 랜턴 한 번 보고 가세요.";
+    img_url = "";
+    ad_link = "http://Ocayn.info/t7eboqtwa7";
+    text_description = "스타벅스 아메리카노 기프티콘 이벤트! DB손해보험에서 간단한 퀴즈를 풀어보세요. 500명이나 준다고 하니 은근 당첨 확률이 높습니다.";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/sleep.jpg?raw=true";
     ad_link = "";
@@ -24,7 +24,7 @@ document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
 document.getElementById("ad_img_p").style.width = "400px";
 document.getElementById("ad_img_p").style.height = "400px";
-document.getElementById("ad_img_p").style.display = "none";
+//document.getElementById("ad_img_p").style.display = "none";
 document.getElementById("link_ad").href = ad_link;
 document.getElementById("link_ad").innerText = ad_link;
 document.getElementById("ad_descrption").innerText = text_description;
