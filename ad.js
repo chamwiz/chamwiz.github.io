@@ -6,8 +6,8 @@ let text_description = "";
 
 if(whichAd == 1){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img.png?raw=true";
-    ad_link = "http://Ocayn.info/t7eboqtwa7";
-    text_description = "스타벅스 아메리카노 기프티콘 이벤트! DB손해보험에서 간단한 퀴즈를 풀어보세요. 500명이나 준다고 하니 은근 당첨 확률이 높습니다.";
+    ad_link = "http://Ocayn.info/t7d6mmx8j8";
+    text_description = "당근마켓으로도 돈을 버는 사람이 있습니다. 5000만원 비법서라고 하네요! 전자책이니 쉽게 공부할 수 있습니다.";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/sleep.jpg?raw=true";
     ad_link = "";
