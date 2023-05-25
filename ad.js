@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 let img_url = "";
 let ad_link = "";
@@ -9,9 +9,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7d6mmx8j8";
     text_description = "당근마켓으로도 돈을 버는 사람이 있습니다. 5000만원 비법서라고 하네요! 전자책이니 쉽게 공부할 수 있습니다.";
 } else if(whichAd == 2){
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/sleep.jpg?raw=true";
-    ad_link = "";
-    text_description = "불면증 있으세요?\n\n갱년기 불면증 가만히 두면 안됩니다. 정말 도움이 되는 칼럼이 있어서 가져왔습니다. 관심이 있다면 한 번 읽어보시길 바랍니다.";
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img2.jpg?raw=true";
+    ad_link = "http://Ocayn.info/t7ebqc9lb4";
+    text_description = "배달의민족에서 캠페인을 합니다. 다양한 경품이 많으니 한 번 살펴보세요. 이번 캠페인의 주제는 위생이네요. 다양한 외식업계 종사자들도 많이 참가하니 관심이 있다면 들어가보세요.";
 } else if(whichAd == 3){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/things.jpg?raw=true";
     ad_link = "https://link.coupang.com/a/ULzfl";
