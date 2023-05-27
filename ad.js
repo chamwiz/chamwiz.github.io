@@ -13,8 +13,8 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7ebqc9lb4";
     text_description = "배달의민족에서 캠페인을 합니다. 다양한 경품이 많으니 한 번 살펴보세요. 이번 캠페인의 주제는 위생이네요. 다양한 외식업계 종사자들도 많이 참가하니 관심이 있다면 들어가보세요.";
 } else if(whichAd == 3){
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/things.jpg?raw=true";
-    ad_link = "https://link.coupang.com/a/ULzfl";
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img3.png?raw=true";
+    ad_link = "http://Ocayn.info/t7ebvge55w";
     text_description = "아이패드 선물 이벤트/프로모션 소개합니다! 관심 있으신 분들은 확인하세요.";
 } else if(whichAd == 4){
 
