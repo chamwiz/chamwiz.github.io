@@ -14,8 +14,8 @@ if(whichAd == 1){
     text_description = "배달의민족에서 캠페인을 합니다. 다양한 경품이 많으니 한 번 살펴보세요. 이번 캠페인의 주제는 위생이네요. 다양한 외식업계 종사자들도 많이 참가하니 관심이 있다면 들어가보세요.";
 } else if(whichAd == 3){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img3.png?raw=true";
-    ad_link = "http://Ocayn.info/t7ebvge55w";
-    text_description = "한미면역다이어트를 아시나요? 여름에 가장 중요한 건 몸매! 다이어트는 필수죠. 관심 있으신 분은 들어가보세요.";
+    ad_link = "http://Ocayn.info/t7eb11dg7n";
+    text_description = "출석체크만 해도 1000원!! 메타팝콘은 광고를 보고 돈 버는 플랫폼입니다. 새로 나와서 하는 이벤트이니 관심 있으면 한 번 살펴보세요.";
 } else if(whichAd == 4){
 
 }
