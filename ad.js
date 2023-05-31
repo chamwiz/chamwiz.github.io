@@ -10,8 +10,8 @@ if(whichAd == 1){
     text_description = "당근마켓으로도 돈을 버는 사람이 있습니다. 5000만원 비법서라고 하네요! 전자책이니 쉽게 공부할 수 있습니다.";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img2.png?raw=true";
-    ad_link = "http://Ocayn.info/t7ebvge55w";
-    text_description = "한미면역다이어트를 아시나요? 여름에 가장 중요한 건 몸매! 다이어트는 필수죠. 관심 있으신 분은 들어가보세요.";
+    ad_link = "http://Ocayn.info/t7ebqc9lb4";
+    text_description = "배달의민족에서 캠페인을 합니다. 다양한 경품이 많으니 한 번 살펴보세요. 이번 캠페인의 주제는 위생이네요. 다양한 외식업계 종사자들도 많이 참가하니 관심이 있다면 들어가보세요.";
 } else if(whichAd == 3){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img3.jpg?raw=true";
     ad_link = "http://Ocayn.info/t7eb11dg7n";
