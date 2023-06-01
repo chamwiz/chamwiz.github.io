@@ -1,13 +1,13 @@
-let whichAd = 2;
+let whichAd = 1;
 
 let img_url = "";
 let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img.png?raw=true";
-    ad_link = "http://Ocayn.info/t7d6mmx8j8";
-    text_description = "당근마켓으로도 돈을 버는 사람이 있습니다. 5000만원 비법서라고 하네요! 전자책이니 쉽게 공부할 수 있습니다.";
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img1.png?raw=true";
+    ad_link = "http://Ocayn.info/t7ebvge55w";
+    text_description = "한미면역다이어트를 아시나요? 여름에 가장 중요한 건 몸매! 다이어트는 필수죠. 관심 있으신 분은 들어가보세요.";
 } else if(whichAd == 2){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img2.png?raw=true";
     ad_link = "http://Ocayn.info/t7ebqc9lb4";
