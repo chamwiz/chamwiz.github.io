@@ -17,7 +17,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7eb11dg7n";
     text_description = "출석체크만 해도 1000원!! 메타팝콘은 광고를 보고 돈 버는 플랫폼입니다. 새로 나와서 하는 이벤트이니 관심 있으면 한 번 살펴보세요.";
 } else if(whichAd == 4){
-
+    img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img4.jpg?raw=true";
+    ad_link = "http://Ocayn.info/t7efcymckz";
+    text_description = "스마트 싱스에서 이벤트를 또 하네요. 스마트 싱스는 삼성에서 만든 것인데, 이번 이벤트에 당첨되면 에어모니터 플러스를 준다고 하네요.";
 }
 
 document.getElementById("img_link").href = ad_link;
