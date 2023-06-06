@@ -20,6 +20,10 @@ if(whichAd == 1){
     img_url = "https://github.com/chamwiz/chamwiz.github.io/blob/main/img4.jpg?raw=true";
     ad_link = "http://Ocayn.info/t7efcymckz";
     text_description = "스마트 싱스에서 이벤트를 또 하네요. 스마트 싱스는 삼성에서 만든 것인데, 이번 이벤트에 당첨되면 에어모니터 플러스를 준다고 하네요.";
+} else if(whichAd == 5){
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023060518360001_Squa_20230605183633.png?RS=600X600";
+    ad_link = "http://Ocayn.info/t7efjl9qz3";
+    text_description = "스타벅스 500명 추첨 이벤트 합니다. 응모해서 아메리카노 기프티콘 받아가세요. DB손해보험에서 하는 이벤트입니다.";
 }
 
 document.getElementById("img_link").href = ad_link;
