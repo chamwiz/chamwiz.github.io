@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 let img_url = "";
 let ad_link = "";
@@ -9,7 +9,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7efyi9gcz";
     text_description = "해커스 감사제 이벤트를 하고 있네요. 단 돈 1천원으로 다양한 혜택을 받을 수 있습니다. 토익에 관심 있으신 분들 한 번 들어가보세요.";
 } else if(whichAd == 2){
-   
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023061612210001_Squa_20230616122103.png?RS=600X600";
+   ad_link = "http://Ocayn.info/t7ef3lh8mr";
+   text_description = "요즘은 배달 전문 식당이 있을 정도로 배달이 트렌드잖아요? 현재 배민외식업광장에서 광고비 지원 이벤트를 하네요. 관심 있으신 분들 들어가보세요.";
 } else if(whichAd == 3){
     
 } else if(whichAd == 4){
