@@ -1,5 +1,6 @@
 let whichAd = 2;
 
+
 let img_url = "";
 let ad_link = "";
 let text_description = "";
