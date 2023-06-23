@@ -1,4 +1,4 @@
-let whichAd = 2;
+let whichAd = 3;
 
 
 let img_url = "";
@@ -14,7 +14,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7ef3lh8mr";
    text_description = "요즘은 배달 전문 식당이 있을 정도로 배달이 트렌드잖아요? 현재 배민외식업광장에서 광고비 지원 이벤트를 하네요. 관심 있으신 분들 들어가보세요.";
 } else if(whichAd == 3){
-    
+   img_url = "https://img.tenping.kr/Content/Upload/Content/2022112913230001_Con_20221129144411_4.JPG";
+   ad_link = "http://Ocayn.info/t7dsa1ah2b";
+   text_description = "꽃 선물 할 일이 있으신가요? 이 사이트를 추천합니다. 신규회원 5천원 할인하네요 화환#개업화분#개업화환#결혼화환#근조화환#꽃배달#축하화환#장례화환#꽃다발";
 } else if(whichAd == 4){
     
 } else if(whichAd == 5){
