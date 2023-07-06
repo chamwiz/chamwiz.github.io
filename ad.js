@@ -8,7 +8,7 @@ let text_description = "";
 if(whichAd == 1){
     img_url = "https://img.tenping.kr/Content/Upload/Images/2023061515560001_Squa_20230615155625.jpg?RS=600X600";
     ad_link = "http://Ocayn.info/t7efyi9gcz";
-    text_description = "해커스 감사제 이벤트를 하고 있네요. 단 돈 1천원으로 다양한 혜택을 받을 수 있습니다. 토익에 관심 있으신 분들 한 번 들어가보세요.";
+    text_description = "해커스 감사제 이벤트를 하고 있네요. 단 돈 1천원으로 다양한 혜택을 받을 수 있습니다. 토익에 관심 있으신 분들 한 번 들어가보세요";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Content/2023070315510001_Con_20230703180247_1.png";
    ad_link = "http://Ocayn.info/t7ej3ct6kj";
