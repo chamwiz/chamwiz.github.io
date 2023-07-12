@@ -1,4 +1,4 @@
-let whichAd = 2;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -6,10 +6,10 @@ let ad_link = "";
 let text_description = "";
 
 if(whichAd == 1){
-    // 불면증 
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023071015180002_Squa_20230710151842.jpg?RS=600X600";
-    ad_link = "http://Ocayn.info/t7efyi9gcz";
-    text_description = "해커스 감사제 이벤트를 하고 있네요. 단 돈 1천원으로 다양한 혜택을 받을 수 있습니다. 토익에 관심 있으신 분들 한 번 들어가보세요";
+    // 배민
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023071110000001_Squa_20230711100043.jpg?RS=600X600";
+    ad_link = "http://Ocayn.info/t7ekdf4vwk";
+    text_description = "배민 이벤트 하고 있습니다. 배민외식업광장이라는 것인데 배민에 신규 입점하시면 여러가지 혜택이 있습니다. 식당 사장님들 관심 있으면 들어가서 확인해보세요.";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Content/2023070315510001_Con_20230703180247_1.png";
    ad_link = "http://Ocayn.info/t7ej3ct6kj";
