@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 3;
 
 
 let img_url = "";
@@ -15,9 +15,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7ej3ct6kj";
    text_description = "예뻐진의원 압구정점에서 이벤트합니다. 저도 시술 몇 번 받아받는데, 만족합니다. 혜택에 주름 보톡스 9900원, 그리고 점제거 있는데 좋네요.";
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023063017480001_Squa_20230630174838.png?RS=600X600";
-   ad_link = "http://Ocayn.info/t7ejydsw8z";
-   text_description = "핏펫 이벤트로, 친구초대하면 총 100만원을 준다고 합니다. 관심 있으시면 확인해보세요.";
+   img_url = "https://img.tenping.kr/Content/Upload/Content/2023071018010001_Con_20230710180900_4.png";
+   ad_link = "http://Ocayn.info/t7ekgpar1f";
+   text_description = "반영구 화장이라고 아시나요? 저도 피부과를 많이 가는데 이런게 있는지 몰랐네요. 압구정 예뻐진의원 반영구화장 할인 이벤트가 있어서 소개드립니다.";
 } else if(whichAd == 4){
     
 } else if(whichAd == 5){
