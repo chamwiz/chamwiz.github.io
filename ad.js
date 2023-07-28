@@ -38,6 +38,6 @@ document.getElementById("ad_descrption").style.backgroundColor = "#e0e0e0";
 
 // 공정위 문구
 let created_adpick_img = document.createElement('p');
-created_adpick_img.innerHTML = "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
+created_adpick_img.innerHTML = "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.";
 let adpick_img = document.querySelector(".contents_style");
 adpick_img.appendChild(created_adpick_img);
