@@ -1,4 +1,4 @@
-let whichAd = 5;
+let whichAd = 4;
 
 
 let img_url = "";
@@ -15,13 +15,13 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7efyi9gcz";
    text_description = "해커스 감사제 이벤트를 하네요. 단 1천원이라고 하는데, 궁금하신 분들은 들어가서 확인해보세요.";
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Content/2023071018010001_Con_20230710180900_4.png";
-   ad_link = "http://Ocayn.info/t7ekgpar1f";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023072011470001_Squa_20230721105515.jpg?RS=600X600";
+   ad_link = "http://Ocayn.info/t7ekxcd7ib";
    text_description = "반영구 화장이라고 아시나요? 저도 피부과를 많이 가는데 이런게 있는지 몰랐네요. 압구정 예뻐진의원 반영구화장 할인 이벤트가 있어서 소개드립니다.";
 } else if(whichAd == 4) {
     img_url = "https://img.tenping.kr/Content/Upload/Images/2023072815460001_Squa_20230728154605.jpg?RS=600X600";
     ad_link = "http://Ocayn.info/t7ekgpar1f";
-    text_description = "다리가 저리시나요? 하지불안증후군일 수 있습니다.";
+    text_description = "베스틴몰 리뉴얼 오픈기념 기대평남기고 150만원 상당 경품받자!";
 } else if(whichAd == 5){
     
 }
