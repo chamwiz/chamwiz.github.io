@@ -1,4 +1,4 @@
-let whichAd = 4;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -7,9 +7,9 @@ let text_description = "";
 
 if(whichAd == 1){
     // 배민
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023071110000001_Squa_20230711100043.jpg?RS=600X600";
-    ad_link = "http://Ocayn.info/t7ekdf4vwk";
-    text_description = "배민 이벤트 하고 있습니다. 배민외식업광장이라는 것인데 배민에 신규 입점하시면 여러가지 혜택이 있습니다. 식당 사장님들 관심 있으면 들어가서 확인해보세요.";
+    img_url = "https://img.tenping.kr/Content/Upload/Content/2023080212100001_Con_20230802121405_3.png";
+    ad_link = "http://Ocayn.info/t7eotu9y8j";
+    text_description = "압구정 예뻐진의원 8월 휴가철 이벤트!";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023061515560001_Squa_20230615155625.jpg?RS=600X600";
    ad_link = "http://Ocayn.info/t7efyi9gcz";
