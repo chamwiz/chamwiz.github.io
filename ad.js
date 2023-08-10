@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 
 let img_url = "";
@@ -11,9 +11,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7eotu9y8j";
     text_description = "압구정 예뻐진의원 8월 휴가철 이벤트!";
 } else if(whichAd == 2){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023061515560001_Squa_20230615155625.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7efyi9gcz";
-   text_description = "해커스 감사제 이벤트를 하네요. 단 1천원이라고 하는데, 궁금하신 분들은 들어가서 확인해보세요.";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023081013270001_Squa_20230810132716.jpg?RS=600X600";
+   ad_link = "http://Ocayn.info/t7eovh0d2e";
+   text_description = "스마트싱스 이벤트입니다! 이벤트에 참가하면 텀블러나 에코백 등 받을 수 있네요! 관심 있으면 확인해보세요!";
 } else if(whichAd == 3){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023072011470001_Squa_20230721105515.jpg?RS=600X600";
    ad_link = "http://Ocayn.info/t7ekxcd7ib";
