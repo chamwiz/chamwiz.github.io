@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 3;
 
 
 let img_url = "";
@@ -15,9 +15,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7eovh0d2e";
    text_description = "스마트싱스 이벤트입니다! 이벤트에 참가하면 텀블러나 에코백 등 받을 수 있네요! 관심 있으면 확인해보세요!";
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023072011470001_Squa_20230721105515.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7ekxcd7ib";
-   text_description = "반영구 화장이라고 아시나요? 저도 피부과를 많이 가는데 이런게 있는지 몰랐네요. 압구정 예뻐진의원 반영구화장 할인 이벤트가 있어서 소개드립니다.";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023072617430001_Squa_20230726174307.jpg?RS=600X600";
+   ad_link = "http://Ocayn.info/t7eoyttvj3";
+   text_description = "초특가 판촉물 할인 이벤트. 최저가 판매하는 고고판촉물.";
 } else if(whichAd == 4) {
     img_url = "https://img.tenping.kr/Content/Upload/Images/2023080912270001_Squa_20230809122741.jpg?RS=600X600";
     ad_link = "http://Ocayn.info/t7eotq5vf3";
