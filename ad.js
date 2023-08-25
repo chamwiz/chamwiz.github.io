@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 4;
 
 
 let img_url = "";
@@ -19,9 +19,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7eoyttvj3";
    text_description = "초특가 판촉물 할인 이벤트. 최저가 판매하는 고고판촉물.";
 } else if(whichAd == 4) {
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023080912270001_Squa_20230809122741.jpg?RS=600X600";
-    ad_link = "http://Ocayn.info/t7eotq5vf3";
-    text_description = "기면증 있으신가요? 잠 잘 못잔다면 한 번 확인해보세요.";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023082510100001_Squa_20230825101018.jpg?RS=600X600";
+    ad_link = "http://Ocayn.info/t7epj6ers1";
+    text_description = "불면증 있으신가요? 인지행동치료를 알아보세요";
 } else if(whichAd == 5){
     
 }
