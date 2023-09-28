@@ -19,7 +19,7 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7eoyttvj3";
    text_description = "초특가 판촉물 할인 이벤트. 최저가 판매하는 고고판촉물.";
 } else if(whichAd == 4) {
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023090811180001_Squa_20230908111840.png";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023092217210001_Squa_20230922172153.png?RS=600X600";
     ad_link = "http://Ocayn.info/t7euakhglv";
     text_description = "SK케미칼 이벤트! 상품으로 치킨과 아메리카노 있습니다";
 } else if(whichAd == 5){
