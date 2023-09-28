@@ -1,4 +1,4 @@
-let whichAd = 5;
+let whichAd = 4;
 
 
 let img_url = "";
@@ -20,8 +20,8 @@ if(whichAd == 1){
    text_description = "초특가 판촉물 할인 이벤트. 최저가 판매하는 고고판촉물.";
 } else if(whichAd == 4) {
     img_url = "https://img.tenping.kr/Content/Upload/Images/2023090811180001_Squa_20230908111840.png";
-    ad_link = "http://Ocayn.info/t7ete08rg9";
-    text_description = "갤럭시워치 6 44mm 이벤트. 삼성전자 스마트싱스에서 진행중입니다.";
+    ad_link = "http://Ocayn.info/t7euakhglv";
+    text_description = "SK케미칼 이벤트! 상품으로 치킨과 아메리카노 있습니다";
 } else if(whichAd == 5){
     
 }
