@@ -1,4 +1,4 @@
-let whichAd = 4;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -7,9 +7,9 @@ let text_description = "";
 
 if(whichAd == 1){
     // 배민
-    img_url = "https://img.tenping.kr/Content/Upload/Content/2023070315510001_Con_20230823154026_3.png";
-    ad_link = "http://Ocayn.info/t7ej3ct6kj";
-    text_description = "물광피부로 만드세요! 피부 좋으면 남친 여친 생깁니다!! 예뻐진의원 압구정점에서 이벤트합니다.";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023101210480001_Squa_20231012104832.png?RS=600X600";
+    ad_link = "http://Ocayn.info/t7ex5gegkz";
+    text_description = "롯데백화점몰 캉골키즈 서프라이즈딜 떴습니다!";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023081013270001_Squa_20230810132716.jpg?RS=600X600";
    ad_link = "http://Ocayn.info/t7eovh0d2e";
