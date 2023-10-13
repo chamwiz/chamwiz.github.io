@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 
 let img_url = "";
@@ -11,9 +11,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7ex5gegkz";
     text_description = "롯데백화점몰 캉골키즈 서프라이즈딜 떴습니다!";
 } else if(whichAd == 2){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023081013270001_Squa_20230810132716.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7eovh0d2e";
-   text_description = "스마트싱스 이벤트입니다! 이벤트에 참가하면 텀블러나 에코백 등 받을 수 있네요! 관심 있으면 확인해보세요!";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023101310450001_Squa_20231013104539.jpg?RS=600X600";
+   ad_link = "http://Ocayn.info/t7ex65eqx4";
+   text_description = "불면증 있지 않으신가요? 불면증 치료를 위해서는 정확한 정보가 중요합니다.";
 } else if(whichAd == 3){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023072617430001_Squa_20230726174307.jpg?RS=600X600";
    ad_link = "http://Ocayn.info/t7eoyttvj3";
