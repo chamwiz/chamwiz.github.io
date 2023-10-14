@@ -1,4 +1,4 @@
-let whichAd = 2;
+let whichAd = 3;
 
 
 let img_url = "";
@@ -15,9 +15,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7ex65eqx4";
    text_description = "불면증 있지 않으신가요? 불면증 치료를 위해서는 정확한 정보가 중요합니다.";
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023072617430001_Squa_20230726174307.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7eoyttvj3";
-   text_description = "초특가 판촉물 할인 이벤트. 최저가 판매하는 고고판촉물.";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023101210510001_Squa_20231012105153.png?RS=600X600";
+   ad_link = "http://Ocayn.info/t7ex98klat";
+   text_description = "롯데백화점 빈폴 패밀리위크 할인 이벤트 하네요.";
 } else if(whichAd == 4) {
     img_url = "https://img.tenping.kr/Content/Upload/Images/2023092217210001_Squa_20230922172153.png?RS=600X600";
     ad_link = "http://Ocayn.info/t7euakhglv";
