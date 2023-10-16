@@ -1,4 +1,4 @@
-let whichAd = 3;
+let whichAd = 4;
 
 
 let img_url = "";
@@ -19,9 +19,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7ex98klat";
    text_description = "롯데백화점 빈폴 패밀리위크 할인 이벤트 하네요.";
 } else if(whichAd == 4) {
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023092217210001_Squa_20230922172153.png?RS=600X600";
-    ad_link = "http://Ocayn.info/t7euakhglv";
-    text_description = "SK케미칼 이벤트! 상품으로 치킨과 아메리카노 있습니다";
+    img_url = "https://img.tenping.kr/Content/Upload/Content/2023101318530001_Con_20231013190628_3.png";
+    ad_link = "http://Ocayn.info/t7eyb1czcj";
+    text_description = "#용돈벌이 #돈모으기 #집에서돈벌기 #게임으로돈벌기 #앱으로돈벌기";
 } else if(whichAd == 5){
     
 }
