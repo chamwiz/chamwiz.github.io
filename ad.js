@@ -1,4 +1,4 @@
-let whichAd = 4;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -7,9 +7,9 @@ let text_description = "";
 
 if(whichAd == 1){
     // 배민
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023101210480001_Squa_20231012104832.png?RS=600X600";
-    ad_link = "http://Ocayn.info/t7ex5gegkz";
-    text_description = "롯데백화점몰 캉골키즈 서프라이즈딜 떴습니다!";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102013220001_Squa_20231020132253.png?RS=600X600";
+    ad_link = "http://Ocayn.info/t7eyj66ed0";
+    text_description = "스마트싱스 이벤트. 승친별딱지 시즌 3 알아보기! 갤럭시 워치 6 받아가세요.";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023101310450001_Squa_20231013104539.jpg?RS=600X600";
    ad_link = "http://Ocayn.info/t7ex65eqx4";
