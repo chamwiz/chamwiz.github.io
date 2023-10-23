@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 
 let img_url = "";
@@ -11,9 +11,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7eyj66ed0";
     text_description = "스마트싱스 이벤트. 승친별딱지 시즌 3 알아보기! 갤럭시 워치 6 받아가세요.";
 } else if(whichAd == 2){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023101310450001_Squa_20231013104539.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7ex65eqx4";
-   text_description = "불면증 있지 않으신가요? 불면증 치료를 위해서는 정확한 정보가 중요합니다.";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023102310580001_Squa_20231023105818.jpg";
+   ad_link = "http://Ocayn.info/t7eynoqh5n";
+   text_description = "밤에 잠이 잘 안오나요? 불면증 극복 방법 알려드립니다!";
 } else if(whichAd == 3){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023101210510001_Squa_20231012105153.png?RS=600X600";
    ad_link = "http://Ocayn.info/t7ex98klat";
