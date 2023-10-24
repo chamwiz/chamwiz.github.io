@@ -1,4 +1,4 @@
-let whichAd = 4;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -7,9 +7,9 @@ let text_description = "";
 
 if(whichAd == 1){
     // 배민
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102013220001_Squa_20231020132253.png?RS=600X600";
-    ad_link = "http://Ocayn.info/t7eyj66ed0";
-    text_description = "스마트싱스 이벤트. 승친별딱지 시즌 3 알아보기! 갤럭시 워치 6 받아가세요.";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102020220001_Squa_20231020202217.jpg";
+    ad_link = "http://Ocayn.info/t7eynpfc7q";
+    text_description = "정관장 홍이장군 어린이 그림대회 ";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102310580001_Squa_20231023105818.jpg";
    ad_link = "http://Ocayn.info/t7eynoqh5n";
