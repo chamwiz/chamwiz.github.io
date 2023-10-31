@@ -1,4 +1,4 @@
-let whichAd = 5;
+let whichAd = 4;
 
 
 let img_url = "";
@@ -19,9 +19,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7eynpfc7q";
    text_description = "정관장 홍이장군 어린이 그림대회 ";
 } else if(whichAd == 4) {
-    img_url = "https://img.tenping.kr/Content/Upload/Content/2023101318530001_Con_20231013190628_3.png";
-    ad_link = "http://Ocayn.info/t7eyb1czcj";
-    text_description = "#용돈벌이 #돈모으기 #집에서돈벌기 #게임으로돈벌기 #앱으로돈벌기";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102715210001_Squa_20231027152140.png?RS=600X600";
+    ad_link = "http://Ocayn.info/t7ey0t5yy1";
+    text_description = "강아지, 고양이 키우세요? 핏펫 첫구매 할인합니다.";
 } else if(whichAd == 5){
     
 }
