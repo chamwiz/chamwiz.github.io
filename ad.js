@@ -1,4 +1,4 @@
-let whichAd = 5;
+let whichAd = 3;
 
 
 let img_url = "";
@@ -15,9 +15,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7eynoqh5n";
    text_description = "밤에 잠이 잘 안오나요? 불면증 극복 방법 알려드립니다!";
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023102020220001_Squa_20231020202217.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7eynpfc7q";
-   text_description = "정관장 홍이장군 어린이 그림대회 ";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023110316080001_Squa_20231103160853.jpg?RS=600X600";
+   ad_link = "http://Ocayn.info/t7e2di2xry";
+   text_description = "수험생 여러분 고생 많았습니다. 예비 24학번 수험생 여러분을 위한 시력교정 혜택!";
 } else if(whichAd == 4) {
     img_url = "";
     ad_link = "https://igamecafe.com/";
