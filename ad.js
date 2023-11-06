@@ -1,4 +1,4 @@
-let whichAd = 3;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -7,9 +7,9 @@ let text_description = "";
 
 if(whichAd == 1){
     // 배민
-    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102020220001_Squa_20231020202217.jpg";
-    ad_link = "http://Ocayn.info/t7eynpfc7q";
-    text_description = "정관장 홍이장군 어린이 그림대회 ";
+    img_url = "https://img.tenping.kr/Content/Upload/Images/2023110315510001_Squa_20231103155127.jpg?RS=600X600";
+    ad_link = "http://Ocayn.info/t7e2di1fsi";
+    text_description = "이제는 눈건강검진을 받아야 할 때입니다!";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102310580001_Squa_20231023105818.jpg";
    ad_link = "http://Ocayn.info/t7eynoqh5n";
@@ -30,7 +30,7 @@ document.getElementById("img_link").href = ad_link;
 document.getElementById("ad_img_p").src = img_url;
 document.getElementById("ad_img_p").style.width = "400px";
 document.getElementById("ad_img_p").style.height = "400px";
-document.getElementById("ad_img_p").style.display = "none";
+//document.getElementById("ad_img_p").style.display = "none";
 document.getElementById("link_ad").href = ad_link;
 document.getElementById("link_ad").innerText = ad_link;
 document.getElementById("ad_descrption").innerText = text_description;
