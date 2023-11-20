@@ -1,4 +1,4 @@
-let whichAd = 5;
+let whichAd = 4;
 
 
 let img_url = "";
@@ -15,9 +15,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7eynoqh5n";
    text_description = "밤에 잠이 잘 안오나요? 불면증 극복 방법 알려드립니다!";
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023110316080001_Squa_20231103160853.jpg?RS=600X600";
-   ad_link = "http://Ocayn.info/t7e2di2xry";
-   text_description = "수험생 여러분 고생 많았습니다. 예비 24학번 수험생 여러분을 위한 시력교정 혜택!";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023111314440001_Squa_20231113153354.png?RS=600X600";
+   ad_link = "http://Ocayn.info/t7e2t312bn";
+   text_description = "유튜브 프리미엄 할인! 유튜브 프리미엄+유튜브 뮤직 이용권 6개월/13개월";
 } else if(whichAd == 4) {
     img_url = "";
     ad_link = "https://igamecafe.com/";
