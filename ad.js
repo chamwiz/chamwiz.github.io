@@ -1,4 +1,4 @@
-let whichAd = 5;
+let whichAd = 1;
 
 
 let img_url = "";
@@ -7,9 +7,9 @@ let text_description = "";
 
 if(whichAd == 1){
     // 배민
-    img_url = "https://img.tenping.kr/Content/Upload/Content/2023070315510001_Con_20230823154026_3.png";
-    ad_link = "http://Ocayn.info/t7ej3ct6kj";
-    text_description = "예뻐진의원 압구정점에서 물광 피부 만드세요!";
+    img_url = "https://img.tenping.kr/Content/Upload/Content/2023112915220001_Con_20231129154609_4.jpg";
+    ad_link = "http://Ocayn.info/t7e3kfdps0";
+    text_description = " 네이버 페이 받아가세요. LG 유플러스 11월 출석 체크";
 } else if(whichAd == 2){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023102310580001_Squa_20231023105818.jpg";
    ad_link = "http://Ocayn.info/t7eynoqh5n";
