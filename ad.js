@@ -1,4 +1,4 @@
-let whichAd = 1;
+let whichAd = 2;
 
 
 let img_url = "";
@@ -11,9 +11,9 @@ if(whichAd == 1){
     ad_link = "http://Ocayn.info/t7e3kfdps0";
     text_description = " 네이버 페이 받아가세요. LG 유플러스 11월 출석 체크";
 } else if(whichAd == 2){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023102310580001_Squa_20231023105818.jpg";
-   ad_link = "http://Ocayn.info/t7eynoqh5n";
-   text_description = "밤에 잠이 잘 안오나요? 불면증 극복 방법 알려드립니다!";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023112911000001_Squa_20231129110058.png?RS=600X600";
+   ad_link = "http://Ocayn.info/t7e3klsze9";
+   text_description = "갤럭시 워치6 44mm 스마트싱스 이벤트! 우리집 뚱냥이를 부탁해!;
 } else if(whichAd == 3){
    img_url = "https://img.tenping.kr/Content/Upload/Images/2023111314440001_Squa_20231113153354.png?RS=600X600";
    ad_link = "http://Ocayn.info/t7e2t312bn";
