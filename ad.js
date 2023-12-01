@@ -1,4 +1,4 @@
-let whichAd = 2;
+let whichAd = 3;
 
 
 let img_url = "";
@@ -15,9 +15,9 @@ if(whichAd == 1){
    ad_link = "http://Ocayn.info/t7e3klsze9";
    text_description = "갤럭시 워치6 44mm 스마트싱스 이벤트! 우리집 뚱냥이를 부탁해!;
 } else if(whichAd == 3){
-   img_url = "https://img.tenping.kr/Content/Upload/Images/2023111314440001_Squa_20231113153354.png?RS=600X600";
-   ad_link = "http://Ocayn.info/t7e2t312bn";
-   text_description = "유튜브 프리미엄 할인! 유튜브 프리미엄+유튜브 뮤직 이용권 6개월/13개월";
+   img_url = "https://img.tenping.kr/Content/Upload/Images/2023112913540001_Squa_20231130121721.png?RS=600X600";
+   ad_link = "http://Ocayn.info/t7e6t1v16r";
+   text_description = "DB 손해 보험 스타벅스 아메리카노 800개 이벤트";
 } else if(whichAd == 4) {
     img_url = "";
     ad_link = "https://igamecafe.com/";
