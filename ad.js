@@ -20,7 +20,7 @@ if(whichAd == 1){
    text_description = "DB 손해 보험 스타벅스 아메리카노 800개 이벤트";
 } else if(whichAd == 4) {
     img_url = "";
-    ad_link = "https://igamecafe.com/";
+    ad_link = "https://m.blog.naver.com/chamwiz/223286164442?referrerCode=1";
     text_description = "새로운 블로그로 이동했습니다!";
 } else if(whichAd == 5){
     
